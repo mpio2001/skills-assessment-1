@@ -1,0 +1,5 @@
+C:\Skills\skills-assessment\src\FizzLib\bin\Release\FizzLib.dll
+C:\Skills\skills-assessment\src\FizzLib\bin\Release\FizzLib.pdb
+C:\Skills\skills-assessment\src\FizzLib\obj\Release\FizzLib.csprojResolveAssemblyReference.cache
+C:\Skills\skills-assessment\src\FizzLib\obj\Release\FizzLib.dll
+C:\Skills\skills-assessment\src\FizzLib\obj\Release\FizzLib.pdb

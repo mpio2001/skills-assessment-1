@@ -1,0 +1,8 @@
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\bin\Release\FizzClient.exe.config
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\bin\Release\FizzClient.exe
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\bin\Release\FizzClient.pdb
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\bin\Release\FizzLib.dll
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\bin\Release\FizzLib.pdb
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\obj\Release\FizzClient.csprojResolveAssemblyReference.cache
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\obj\Release\FizzClient.exe
+C:\Skills\skills-assessment\src\FizzClient\FizzClient\obj\Release\FizzClient.pdb
